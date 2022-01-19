@@ -262,4 +262,4 @@ scene("gameover", () => {
   })
 })
 
-go("game", 2);
+go("game", 0);
